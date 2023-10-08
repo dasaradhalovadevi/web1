@@ -1,0 +1,16 @@
+.image{background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/conference-img.png);
+       background-size:cover;
+       height:100vh;
+       width:100vw; }
+.heading{
+	  color:#183b56;
+}
+.para{color:#5a7184}
+
+.rating{background-color: white;
+    text-align:center;
+    padding:10px;
+    height:160px;
+    width:140px;
+    margin:10px;
+    border-radius:10px;}s
